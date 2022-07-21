@@ -1,0 +1,83 @@
+.tech{
+  height: 500px;
+  display: grid;
+  align-items: center;
+  grid-template-columns: 562px 562px;
+}
+.tech_info{
+  margin-right: 17px;
+}
+.tech_info_header{
+  color: #1F2E35;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 64px;
+}
+.tech_info_paragraph{
+  color: #30444E;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28px;
+}
+.tech_info_btn{
+  font-size: 20px;
+  line-height: 28px;
+  padding: 12px 32px;
+  box-shadow: 1px 2px 4px #00000040;
+}
+
+.welcom{
+  height: 500px;
+  background-color: #F6F6F6;
+  margin-bottom: 96px;
+}
+.welcom_cnt{
+  padding: 0 192px;
+  display: grid;
+  align-items: center;
+  grid-template-columns: 534px 520px;
+}
+.welcom_info{
+  width: 520px;
+}
+.welcom_info_header{
+  color: #1F2E35;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 42px;
+}
+
+.service{
+  padding: 0 158px;
+  margin-bottom: 110px;
+}
+.service_header{
+  text-align: center;
+  color: #1F2E35;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 42px;
+}
+.cards{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.service_card{
+  width: 320px;
+  height: 360px;
+  padding: 0 20px;
+  position: relative;
+}
+.card_header{
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 38px;
+}
+.card_btn{
+  position: absolute;
+  bottom: 0px;
+  font-size: 18px;
+  line-height: 24px;
+  padding: 8px 16px;
+  box-shadow: 1px 1px 2px #00000040;
+}

@@ -1,0 +1,26 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+.center{
+  display: flex;
+  align-items: center;
+}
+.wrap{
+  padding: 0 158px;
+  margin-bottom: 100px;
+}
+.select{
+  color: #EE4248;
+}
+.btn{
+  color: #ffffff;
+  background-color: #EE4248;
+  border: none;
+  border-radius: 4px;
+}
+.paragraph{
+  color: #30444E;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+}

@@ -1,0 +1,33 @@
+.contact_info{
+  display: flex;
+  align-items: center;
+  padding: 0 158px;
+  color: #263238;
+}
+.address{
+  margin-right: 46px;
+}
+.address_header{
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21px;
+}
+.contact_paragraph{
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 26px;
+}
+.contact_header{
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 28px;
+}
+.copyright{
+  height: 64px;
+  background-color: #EE4248;
+  text-align: center;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 64px;
+}

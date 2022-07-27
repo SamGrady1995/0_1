@@ -1,9 +1,15 @@
 .header{
-  height: 100px;
+  margin-bottom: 100px;
   box-shadow: 0 1px 4px #00000040;
 }
-.header .center:not(:last-child){
-  padding-right: 134px;
+.header_wrap{
+  width: 1124px;
+  height: 100px;
+  justify-content: space-between;
+}
+.menu_nav_list, .menu_media_list{
+  display: flex;
+  align-items: center;
 }
 .menu_nav_item{
   color: #1F2E35CC;

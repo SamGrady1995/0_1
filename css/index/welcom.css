@@ -1,0 +1,17 @@
+.welcom{
+  background-color: #F6F6F6;
+  margin-bottom: 96px;
+}
+.welcom_cnt{
+  height: 500px;
+  width: 1056px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+}
+.welcom_info_header{
+  color: #1F2E35;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 42px;
+}

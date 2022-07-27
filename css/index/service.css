@@ -1,0 +1,34 @@
+.service{
+  margin-bottom: 110px;
+}
+.service_header{
+  text-align: center;
+  color: #1F2E35;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 42px;
+}
+.cards{
+  width: 1124px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.service_card{
+  width: 320px;
+  height: 360px;
+  padding: 0 20px;
+  position: relative;
+}
+.card_header{
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 38px;
+}
+.card_btn{
+  position: absolute;
+  bottom: 0;
+  font-size: 18px;
+  line-height: 24px;
+  padding: 8px 16px;
+  box-shadow: 1px 1px 2px #00000040;
+}
